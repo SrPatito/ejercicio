@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+}
+
+
+section{
+    width: 1300px;
+    height: 200px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 2px solid black;
+        margin-left: 100px;
+}
+section2{
+    width: 1300px;
+    margin-top: -100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+        margin-left: 100px;
+
+}
+
+div{
+    width: 70px;
+    height: 70px;
+    background-color: #D94848;
+    margin: 1em;
+}
+div2{
+    width: 70px;
+    height: 70px;
+    background-color: #D9644A;
+    margin: 1em;
+}
+div p{
+color: #310F40;
+font-size: 40px;
+text-align: center;
+    margin-top: 10px;
+}
+div2 p{
+color: #310F40;
+font-size: 40px;
+text-align: center;
+    margin-top: 10px;
+}
+.segundo{
+    
+width: 1300px;
+height: 350px;
+border: 2px solid black;
+margin-top: 50px;    
+margin-left: 100px;
+background-color: #9AD2D9;    
+}
+.fila1{
+width: 600px;
+background-color: #707070;    
+    
+}
+.div p{
+color: white;
+    
+}
+.tercero{
+    
+
+margin-top: -352px;    
+margin-left: 772px;
+background-color: #9AD2D9;    
+}
+.fila2{
+width: 600px;
+background-color: #707070;    
+    
+}
